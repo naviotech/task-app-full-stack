@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/naviotech/back-tas-app
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/naviotech/front-task-app
